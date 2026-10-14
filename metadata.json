@@ -1,0 +1,8 @@
+{
+  "name": "Remix OceanX Explorer Lab",
+  "description": "A browser-based A/B testing tool to measure how leaderboards influence learner engagement and activity completion rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
